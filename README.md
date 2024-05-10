@@ -1,2 +1,3 @@
 # code-kata
-잔디 심기
+## planting grass
+> 잔디를 심어요
